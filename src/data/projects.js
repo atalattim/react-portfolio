@@ -42,5 +42,5 @@ export const SKILLS = [
   { name: 'React', level: 'Intermediate', icon: '⚛️' }
   { name: 'C', level: 'Intermediate', icon: '©️' },
   { name: 'Python', level: 'Intermediate', icon: '🐍' },
-  { name: 'Java', level: 'Intermediate', icon: '☕' }
+  { name: 'Java', level: 'Intermediate', icon: '☕' },
 ];
